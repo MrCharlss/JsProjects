@@ -1,0 +1,35 @@
+#nav {
+  background: #191a1a;
+  align-items: center;
+  height: 65px;
+}
+#titulo {
+  color: azure;
+}
+.btn-tipo {
+  margin-top: 25px;
+}
+.clock-container {
+  margin-top: 25px;
+  display: flex;
+  justify-content: center;
+}
+
+#start {
+  background: green;
+  border: none;
+}
+#stop {
+  background: red;
+  border: none;
+}
+#reset {
+  background: grey;
+  border: none;
+}
+
+.btn-control {
+  margin-top: 25px;
+  display: flex;
+  justify-content: center;
+}
